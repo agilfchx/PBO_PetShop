@@ -5,3 +5,6 @@ Masih terdapat Bug di View Order yang dimana bagian Customer ketika orderan bers
 dan bagian Admin ketika beres/hapus orderan tidak terhapus.
 
 Belum menggunakan database jadi masih hardcode
+
+
+<code> java -jar "TUBES.jar" </code>
