@@ -1,0 +1,7 @@
+# PBO_PetShop
+Tugas Besar PBO Based Console
+
+Masih terdapat Bug di View Order yang dimana bagian Customer ketika orderan bersih tidak menampilkan output apa-apa
+dan bagian Admin ketika beres/hapus orderan tidak terhapus.
+
+Belum menggunakan database jadi masih hardcode
