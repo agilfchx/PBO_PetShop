@@ -7,4 +7,5 @@ dan bagian Admin ketika beres/hapus orderan tidak terhapus.
 Belum menggunakan database jadi masih hardcode
 
 
+Jalanin file nya bisa buka folder dist lalu ketikkan
 <code> java -jar "TUBES.jar" </code>
